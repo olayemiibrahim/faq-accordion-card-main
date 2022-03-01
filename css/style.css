@@ -68,7 +68,7 @@ button {
 	position: relative;
 	min-width: 100%;
 	min-height: 5.25rem;
-	background-image: url("../images/bg-pattern-mobile.svg");
+	background-image: url("./images/bg-pattern-mobile.svg");
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -128,7 +128,7 @@ button {
 	display: block;
 	width: 0.75rem;
 	height: 0.75rem;
-	background-image: url("../images/icon-arrow-down.svg");
+	background-image: url("./images/icon-arrow-down.svg");
 	background-repeat: no-repeat;
 	background-size: contain;
 	transition: transform 300ms ease-in-out;
@@ -171,7 +171,7 @@ button {
 		padding-right: 5rem;
 		padding-left: 0;
 		border-radius: 20px;
-		background-image: url("../images/bg-pattern-desktop.svg");
+		background-image: url("./images/bg-pattern-desktop.svg");
 		background-position: -545px -295px;
 		background-repeat: no-repeat;
 		background-size: 100%;
